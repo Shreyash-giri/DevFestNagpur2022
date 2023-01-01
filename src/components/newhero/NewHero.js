@@ -45,7 +45,7 @@ const NewHero = () => {
                 <CutSvg />
               </span>
             </p>{" "}
-            India's Largest
+            JD'S Largest
           </h1>
           <h1
             style={{
